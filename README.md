@@ -1,0 +1,2 @@
+# NASA_GOTECH
+Geophysical Observations Toolkit for Evaluating Coral Health: Practicum with NASA and Coral Vita team to develop toolkit to predict coral locations and vitality using CALIPSO satellite imagery; developed APIs for data acquisition; designed and developed PostgreSQL database in GCP; created and fused ground truth labels from open-source databases; leveraged GPU to implement 1D Convolutional Neural Networks and Feed-Forward Neural Networks using PyTorch to achieve 75.8% accuracy.
